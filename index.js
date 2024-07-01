@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["💚 MADE BY IGN4C 💚","💙 MADE BY IGN4C 💙","🧡 MADE BY IGN4C 🧡","❤️ MADE BY IGN4C ❤️,"🤎 MADE BY IGN4C 🤎"];
+const statusMessages = ["MADE BY IGN4C"];
 
 
 let currentIndex = 0;
