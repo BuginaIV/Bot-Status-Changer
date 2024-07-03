@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["MADE BY IGN4C"];
+const statusMessages = ["discord.gg/superiorservices"];
 
 
 let currentIndex = 0;
