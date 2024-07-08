@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/superiorservices"];
+const statusMessages = ["#1 ZSN"];
 
 
 let currentIndex = 0;
