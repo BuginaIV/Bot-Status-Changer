@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["#1 discord.com/octagonservices"];
+const statusMessages = ["#1 discord.com/banditas"];
 
 
 let currentIndex = 0;
